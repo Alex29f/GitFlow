@@ -1,1 +1,2 @@
 # GitFlow
+Aleksandrs Frīdenbergs
